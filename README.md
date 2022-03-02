@@ -2,7 +2,7 @@
 
 ## Description
 Ce programme modélise une calculatrice effectuant des opérations basiques.  
-Le programme n'utilise aucune fonction préfaite de Java mais seulement les ArrayList, dans le but de simuler une pile.  
+Le programme n'utilise aucune fonction pré-faite de Java mais seulement les ArrayList, dans le but de simuler une pile.  
 Les opérations effectuables sont :  
 - Addition
 - Soustraction
@@ -18,12 +18,14 @@ Les opérations effectuables sont :
 
 ## Evolution possible
 
-D'autres fonctionnalités pourraient être ajoutées tels que :
+D'autres fonctionnalités pourraient être ajoutées telles que :
 - le modulo (%)
 - la factorielle (!) 
 - la puissance (^)
 - la racine carrée (sqrt())
 - etc...  
+  
+Certaines fonctions pourraient également être optimisées.
 
 ## Contexte de réalisation du programme
 
