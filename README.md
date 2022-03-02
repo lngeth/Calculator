@@ -1,4 +1,4 @@
-# Calculator
+# Calculator :pager:
 
 ## Description
 Ce programme modélise une calculatrice effectuant des opérations basiques.  
