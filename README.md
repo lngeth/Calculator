@@ -1,6 +1,6 @@
-#Calculator
+# Calculator
 
-##Description
+## Description
 Ce programme modélise une calculatrice effectuant des opérations basiques.  
 Le programme n'utilise aucune fonction préfaite de Java mais seulement les ArrayList, dans le but de simuler une pile.  
 Les opérations effectuables sont :  
@@ -9,14 +9,14 @@ Les opérations effectuables sont :
 - Division
 - Multiplication
 
-##Installation
+## Installation
 
--- Cloner le projet dans un répertoire local  
--- Ouvrer le répertoire avec votre IDE préféré  
--- Exécuter le main de appli.AppliCalculator  
--- Tester.
+1. Cloner le projet dans un répertoire local  
+2. Ouvrer le répertoire avec votre IDE préféré  
+3. Exécuter le main de appli.AppliCalculator  
+4. Tester.
 
-##Evolution possible
+## Evolution possible
 
 D'autres fonctionnalités pourraient être ajoutées tels que :
 - le modulo (%)
@@ -25,6 +25,6 @@ D'autres fonctionnalités pourraient être ajoutées tels que :
 - la racine carrée (sqrt())
 - etc...  
 
-##Contexte de réalisation du programme
+## Contexte de réalisation du programme
 
 La réalisation de ce programme s'inscrit dans le cadre d'un test de compétences techniques (algorithmie) pour un stage.
