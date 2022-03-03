@@ -22,6 +22,12 @@ public class AppliCalculator {
         System.out.println("Fermeture...");
     }
 
+    /**
+     * Use all the static method of the StringParser class to evaluate the mathematical string insert by the user
+     * @param calculString the string to analyse
+     * @return a double, the result of the evaluation
+     * @throws Exception if the user enter a alphabetic character or forget to close a parenthesis, it throws an Exception
+     */
     public static double calculator(String calculString) throws Exception {
         if (!StringParser.verifyStringEntry(calculString)) {
             throw new Exception("Erreur au niveau de votre entrée ! Vérifier que toutes vos parenthèses sont fermées...");

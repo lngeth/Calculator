@@ -1,5 +1,9 @@
 package parser;
 
+/**
+ * Class containing the ASCII number of the operator when minus 48.
+ * Useful to know if it is an operand or probably a operator
+ */
 public class AsciiOperator {
     public static final int SPACE = -16;
     public static final int OPEN_PARENTHESIS = -8;
